@@ -1,5 +1,5 @@
 # Instruction
-Site runs at: https://dkhilko.github.io
+Site runs at: https://nikache.github.io/Wedding-day-V-D/
 
 The theme used: http://jekyllthemes.org/themes/Uno-Timeline/
 ### Quick note to install and setup

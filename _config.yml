@@ -1,15 +1,15 @@
 # Site settings
 title: Wedding Viktoriia & Danylo 
 description: "Wedding Viktoriia & Danylo"
-url: dkhilko.github.io
-baseurl: ''
+url: https://nikache.github.io/Wedding-day-V-D/
+baseurl: 'https://nikache.github.io/Wedding-day-V-D/'
 profilepic: '/images/profile.jpg'
 bkimage: '/images/dance.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: '4a93e3e01d.js'
 
 author:
-  name: 'Danylo Khilko'
+  name: 'Viktoriia Bliashynets & Danylo Khilko'
   # email: dkhilko@ukr.net
   # facebook_username: danylo.khilko
  # github_username:
